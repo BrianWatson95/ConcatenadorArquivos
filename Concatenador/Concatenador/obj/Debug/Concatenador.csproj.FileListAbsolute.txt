@@ -1,0 +1,6 @@
+c:\users\watso\onedrive\documentos\visual studio 2017\Projects\Concatenador\Concatenador\obj\Debug\Concatenador.csprojResolveAssemblyReference.cache
+c:\users\watso\onedrive\documentos\visual studio 2017\Projects\Concatenador\Concatenador\bin\Debug\Concatenador.exe.config
+c:\users\watso\onedrive\documentos\visual studio 2017\Projects\Concatenador\Concatenador\bin\Debug\Concatenador.exe
+c:\users\watso\onedrive\documentos\visual studio 2017\Projects\Concatenador\Concatenador\bin\Debug\Concatenador.pdb
+c:\users\watso\onedrive\documentos\visual studio 2017\Projects\Concatenador\Concatenador\obj\Debug\Concatenador.exe
+c:\users\watso\onedrive\documentos\visual studio 2017\Projects\Concatenador\Concatenador\obj\Debug\Concatenador.pdb
